@@ -3,8 +3,9 @@ Problem, denetimli öğrenme kapsamında ele alınan çok sınıflı bir sınıf
 Ele alınan duygu sınıfları; nötr, mutlu, öfkeli, üzgün ve şaşkın olarak belirlenmiştir. 
 Çalışmanın temel hedefi, sınırlı süre içerisinde temel bir model geliştirerek başlangıç performansının elde edilmesidir.
 
-Gerekli Kütüphaneler
--numpy
--librosa 
--matplotlib 
--scikit-learn
+Gerekli Kütüphaneleri İndirme
+
+pip install numpy
+pip install librosa
+pip install matplotlib
+pip install scikit-learn
