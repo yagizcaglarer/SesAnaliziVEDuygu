@@ -5,7 +5,4 @@ Ele alınan duygu sınıfları; nötr, mutlu, öfkeli, üzgün ve şaşkın olar
 
 Gerekli Kütüphaneleri İndirme
 
-pip install numpy
-pip install librosa
-pip install matplotlib
-pip install scikit-learn
+pip install numpy librosa matplotlib scikit-learn
