@@ -6,3 +6,7 @@ Ele alınan duygu sınıfları; nötr, mutlu, öfkeli, üzgün ve şaşkın olar
 Gerekli Kütüphaneleri İndirme
 
 pip install numpy librosa matplotlib scikit-learn
+
+
+Çalıştırma için 
+-Dosyaları aynı klasör içersinde toplayıp daha sonra terminal kısmına "streamlit run app.py" yazılmalı
